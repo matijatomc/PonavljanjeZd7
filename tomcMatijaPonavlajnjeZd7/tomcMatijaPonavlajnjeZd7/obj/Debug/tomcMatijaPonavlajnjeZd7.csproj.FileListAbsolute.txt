@@ -1,0 +1,6 @@
+C:\Users\Matija\source\repos\tomcMatijaPonavlajnjeZd7\tomcMatijaPonavlajnjeZd7\bin\Debug\tomcMatijaPonavlajnjeZd7.exe.config
+C:\Users\Matija\source\repos\tomcMatijaPonavlajnjeZd7\tomcMatijaPonavlajnjeZd7\bin\Debug\tomcMatijaPonavlajnjeZd7.exe
+C:\Users\Matija\source\repos\tomcMatijaPonavlajnjeZd7\tomcMatijaPonavlajnjeZd7\bin\Debug\tomcMatijaPonavlajnjeZd7.pdb
+C:\Users\Matija\source\repos\tomcMatijaPonavlajnjeZd7\tomcMatijaPonavlajnjeZd7\obj\Debug\tomcMatijaPonavlajnjeZd7.csprojAssemblyReference.cache
+C:\Users\Matija\source\repos\tomcMatijaPonavlajnjeZd7\tomcMatijaPonavlajnjeZd7\obj\Debug\tomcMatijaPonavlajnjeZd7.exe
+C:\Users\Matija\source\repos\tomcMatijaPonavlajnjeZd7\tomcMatijaPonavlajnjeZd7\obj\Debug\tomcMatijaPonavlajnjeZd7.pdb
